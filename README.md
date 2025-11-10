@@ -15,9 +15,9 @@
 <div align="center">
   
 # 💫About SourcedCMD :
-🔭 Currently Working On : Personal/Bot Website & My Branding
+🔭 Currently Working On : My Branding
   
-🌱 Currently Learning : Node.js, Java & HMTL
+🌱 Currently Learning : Vite, Framer Motion & Tailwind CSS
 
 👯 I’m open To Collaborations 
 
@@ -34,7 +34,7 @@
 📫 <a href="mailto:cmd.sourced@gmail.com">Send an Email</a></p>
 
 <a href="https://www.youtube.com/@whatsupdwag" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewhiteweb" height="30" width="40" /></a>
-<a href="https://dcd.gg/sourcedcmd" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codewhiteweb" height="30" width="40" /></a>
+<a href="https://discord.gg/QG3gK2cCnm" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="codewhiteweb" height="30" width="40" /></a>
 <a href="https://github.com/SourcedCMD" target="blank"><img align="center" src="https://githubraw.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="codewhiteweb" height="30" width="40" /></a>
 
 
@@ -57,10 +57,8 @@
 ### 📕 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CMD_AIOv1-Bot](https://github.com/SourcedCMD/CMD_AIOv1-Bot)
-- [BOT-LANDING-PAGE](https://sourcedcmd.github.io/CMD_Bot-Landing/)
-- [Portfolio](https://github.com/SourcedCMD)
-- [AI ChatBot](https://sourcedcmdai.vercel.app/)
+- [InkSpark](https://github.com/SourcedCMD/InkSpark)
+- [SkyVault](https://github.com/SourcedCMD/SkyVault)
 <!-- BLOG-POST-LIST:END -->
   
   More Soon...
