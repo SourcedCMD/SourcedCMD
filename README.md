@@ -14,7 +14,7 @@
 ---
 <div align="center">
   
-# 💫About SourcedCMD :
+# 💫About Sourced.dev :
 🔭 Currently Working On : My Branding
   
 🌱 Currently Learning : Vite, Framer Motion & Tailwind CSS
